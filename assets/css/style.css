@@ -32,7 +32,7 @@ header .navbar-container {
 header .logo a {
   text-decoration: none;
   font-weight: 900;
-  font-size: 2rem;
+  font-size: 1rem;
   color: #45c055;
 
   transition: all 0.3s ease-in;
